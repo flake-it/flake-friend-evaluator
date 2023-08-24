@@ -1,0 +1,7 @@
+coverage==6.5.0
+imbalanced-learn==0.10.1
+joblib==1.2.0
+numpy==1.23.5
+scikit-learn==1.2.1
+scipy==1.9.3
+threadpoolctl==3.1.0

@@ -1,0 +1,4 @@
+coverage==6.4.*
+psutil==5.9.*
+pytest==7.1.*
+radon==5.1.*
